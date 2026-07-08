@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project explores how AI agents can automate repetitive engineering and business workflows.
+AI-assisted energy data validation, technical documentation, and blockchain verification project developed during SEP790 / SEP794.
 
 ---
 
