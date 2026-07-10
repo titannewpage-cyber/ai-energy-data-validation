@@ -58,7 +58,7 @@ Planned:
 
 The proposed engineering workflow is illustrated below.
 
-![Workflow](images/Project workflow.png)
+![Workflow](images/Project_workflow.png)
 
 The platform follows the workflow below:
 
