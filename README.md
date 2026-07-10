@@ -67,7 +67,6 @@ The proposed platform follows these major stages:
 3. Oracle-based trusted verification
 4. Blockchain record generation for traceability
 5. Settlement and downstream engineering applications
-```
 
 ---
 # Prototype Dashboard
