@@ -56,36 +56,45 @@ Planned:
 
 # System Workflow
 
-The proposed engineering workflow is illustrated below.
+The current prototype workflow is illustrated below.
 
-![Workflow](images/Project_workflow.png)
+![System Workflow](images/Project_workflow.png)
 
-The platform follows the workflow below:
+The proposed platform follows these major stages:
 
-```
-Engineering Data
-        │
-        ▼
-Data Cleaning
-        │
-        ▼
-AI Validation
-        │
-        ▼
-Engineering Analytics
-        │
-        ▼
-Technical Documentation
-        │
-        ▼
-Trusted Verification
-        │
-        ▼
-Future Blockchain Storage
+1. Energy data collection from engineering systems
+2. Python-based data validation and preprocessing
+3. Oracle-based trusted verification
+4. Blockchain record generation for traceability
+5. Settlement and downstream engineering applications
 ```
 
 ---
+## Current Development Status
 
+This repository documents an active graduate innovation project and is currently under development.
+
+### Completed
+
+- System architecture design
+- Overall workflow definition
+- Python validation prototype
+- Engineering dashboard prototype
+- Initial repository documentation
+
+### In Progress
+
+- AI-assisted validation algorithms
+- Workflow automation
+- Technical documentation generation
+
+### Planned
+
+- Oracle integration
+- Blockchain verification
+- Smart contract implementation
+- Chainlink oracle support
+---
 # Prototype Dashboard
 
 Current dashboard prototype:
